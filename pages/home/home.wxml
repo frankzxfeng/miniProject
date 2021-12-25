@@ -2,3 +2,5 @@
 <text>pages/home/home.wxml</text>
 <button size="mini">按钮</button>
 
+<view>知识点一</view>
+<view>哈啊哈</view>
